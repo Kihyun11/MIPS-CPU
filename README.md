@@ -5,4 +5,5 @@ Imperial College London - 2nd year IA&amp;C Autumn Coursework
 Designed a MIPS-CPU in Verilog that performs 48 instructions
 
 ## Structural Diagram
-(mips_cpu.jpg)
+![Structure](images/mips_cpu.jpg)
+
